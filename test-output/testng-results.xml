@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164" started-at="2021-06-21T05:56:05Z" finished-at="2021-06-21T05:56:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164" started-at="2021-06-21T05:56:05Z" finished-at="2021-06-21T05:56:05Z">
+      <class name="org.mia.Abcd">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.mia.Abcd@26653222]" name="tc0" duration-ms="25" started-at="2021-06-21T11:26:05Z" finished-at="2021-06-21T11:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.mia.Abcd@26653222]" name="tc1" duration-ms="3" started-at="2021-06-21T11:26:05Z" finished-at="2021-06-21T11:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.mia.Abcd@26653222]" name="tc2" duration-ms="2" started-at="2021-06-21T11:26:05Z" finished-at="2021-06-21T11:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.mia.Abcd@26653222]" name="tc3" duration-ms="2" started-at="2021-06-21T11:26:05Z" finished-at="2021-06-21T11:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.mia.Abcd@26653222]" name="tc4" duration-ms="2" started-at="2021-06-21T11:26:05Z" finished-at="2021-06-21T11:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- org.mia.Abcd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
